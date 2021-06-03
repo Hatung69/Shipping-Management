@@ -1,0 +1,4724 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "DFDDataFlowModel",
+			"_id": "AAAAAAF5hNBQYGN7FkY=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "DataFlowModel1",
+			"ownedElements": [
+				{
+					"_type": "DFDDiagram",
+					"_id": "AAAAAAF5hNBQYGN84ZQ=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "DFDDiagram1",
+					"ownedViews": [
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAF5hNBfY2OC4Z0=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sczOb5XlHiQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNBfY2OC4Z0="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 237,
+									"width": 109,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sRKrhxDfFhY=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNBfY2OC4Z0="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 237,
+									"width": 109,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1PyHEo6Uc4=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNBfY2OC4Z0="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 237,
+									"width": 109,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5haIhRhtQKI4=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNBfY2OC4Z0="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 237,
+									"width": 109,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNBfY2OIUMY=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNBfY2OC4Z0="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 237,
+									"width": 109,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNBfY2ODuSM=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNBfY2OC4Z0="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 242,
+									"width": 109,
+									"height": 13,
+									"text": "Nhân viên",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNBfY2OEMQQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNBfY2OC4Z0="
+									},
+									"font": "Arial;13;0",
+									"left": -72,
+									"top": 24,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 80,
+							"top": 232,
+							"width": 129,
+							"height": 105,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNBfY2ODuSM="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5hNSE2WORsqY=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNSE2WOPGzk="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNSE2WOST/E=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNSE2WORsqY="
+									},
+									"font": "Arial;13;0",
+									"left": 410,
+									"top": 96,
+									"width": 149,
+									"height": 13,
+									"text": "QL Khách hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNSE2WOTiXA=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNSE2WORsqY="
+									},
+									"font": "Arial;13;0",
+									"left": 410,
+									"top": 69,
+									"width": 149,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 400,
+							"top": 64,
+							"width": 169,
+							"height": 113,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNSE2WOST/E="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hNSE2WOTiXA="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5hNVZO2OjZoQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNVZO2OkSJM=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNVZO2OjZoQ="
+									},
+									"font": "Arial;13;0",
+									"left": 410,
+									"top": 232,
+									"width": 149,
+									"height": 13,
+									"text": "QL Hàng hoá",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNVZO2Olxs4=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNVZO2OjZoQ="
+									},
+									"font": "Arial;13;0",
+									"left": 410,
+									"top": 205,
+									"width": 149,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 400,
+							"top": 200,
+							"width": 169,
+							"height": 177,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNVZO2OkSJM="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hNVZO2Olxs4="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5hNW3AGO1isU=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNW2/2OzdJM="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNW3AGO2tMI=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNW3AGO1isU="
+									},
+									"font": "Arial;13;0",
+									"left": 826,
+									"top": 480,
+									"width": 149,
+									"height": 13,
+									"text": "Tạo Đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNW3AGO33XM=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNW3AGO1isU="
+									},
+									"font": "Arial;13;0",
+									"left": 826,
+									"top": 453,
+									"width": 149,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 816,
+							"top": 448,
+							"width": 169,
+							"height": 113,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNW3AGO2tMI="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hNW3AGO33XM="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hNeT/WPaRBY=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNeT/WPY430="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hNeT/WPbLIg=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNeT/WPaRBY="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hNeT/WPY430="
+									},
+									"font": "Arial;13;0",
+									"left": 184,
+									"top": 120,
+									"width": 161.8779296875,
+									"height": 13,
+									"alpha": 0.15499671809172344,
+									"distance": 64.77653896280658,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hNeT/WPaRBY="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Thêm khách hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNSE2WORsqY="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNBfY2OC4Z0="
+							},
+							"lineStyle": 2,
+							"points": "200:232;200:136;400:136",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNeT/WPbLIg="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hNhDc2PpGXQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNhDc2Pn+rY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hNhDc2Pq1DM=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNhDc2PpGXQ="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hNhDc2Pn+rY="
+									},
+									"font": "Arial;13;0",
+									"left": 197,
+									"top": 80,
+									"width": 151.02978515625,
+									"height": 13,
+									"alpha": 0.09585913794914927,
+									"distance": 104.47966309287182,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hNhDc2PpGXQ="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Tìm khách hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNSE2WORsqY="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNBfY2OC4Z0="
+							},
+							"lineStyle": 2,
+							"points": "168:232;168:96;400:96",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNhDc2Pq1DM="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5hNjDf2P2g04=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNjDf2P0B2s="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNjDf2P3kOY=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNjDf2P2g04="
+									},
+									"font": "Arial;13;0",
+									"left": 892,
+									"top": 106,
+									"width": 113.76171875,
+									"height": 13,
+									"text": "Khách hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hNjDf2P4St0=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNjDf2P2g04="
+									},
+									"font": "Arial;13;0",
+									"left": 877,
+									"top": 106,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 872,
+							"top": 96,
+							"width": 143.76171875,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNjDf2P3kOY="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hNjDf2P4St0="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hNj4TWQEFWY=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNj4TWQCbAk="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hNj4TWQFvAA=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNj4TWQEFWY="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hNj4TWQCbAk="
+									},
+									"font": "Arial;13;0",
+									"left": 660,
+									"top": 88,
+									"width": 137.3125,
+									"height": 13,
+									"alpha": 4.037647428405337,
+									"distance": 12.806248474865697,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hNj4TWQEFWY="
+									},
+									"edgePosition": 1,
+									"text": "Kết quả tìm khách hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNSE2WORsqY="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNjDf2P2g04="
+							},
+							"lineStyle": 2,
+							"points": "872:104;568:104",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNj4TWQFvAA="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hNlcCmQSGm4=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNlcCmQQxHw="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hNlcCmQTzhQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNlcCmQSGm4="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hNlcCmQQxHw="
+									},
+									"font": "Arial;13;0",
+									"left": 640,
+									"top": 120,
+									"width": 161.8779296875,
+									"height": 13,
+									"alpha": 1.5707953267948966,
+									"distance": 10,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hNlcCmQSGm4="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Thêm khách hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNjDf2P2g04="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNSE2WORsqY="
+							},
+							"lineStyle": 2,
+							"points": "568:136;872:136",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNlcCmQTzhQ="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hNq632QnKYQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNq63mQlp3I="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hNq632Qo0TI=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNq632QnKYQ="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hNq63mQlp3I="
+									},
+									"font": "Arial;13;0",
+									"left": 230,
+									"top": 219,
+									"width": 148.8779296875,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hNq632QnKYQ="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Thêm hàng hoá"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNVZO2OjZoQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNBfY2OC4Z0="
+							},
+							"lineStyle": 2,
+							"points": "208:240;400:240",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNq632Qo0TI="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hNssF2RDKSw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNssF2RBQZM="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hNssF2RE34Q=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNssF2RDKSw="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hNssF2RBQZM="
+									},
+									"font": "Arial;13;0",
+									"left": 234,
+									"top": 259,
+									"width": 140.25146484375,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hNssF2RDKSw="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Sửa hàng hoá"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNVZO2OjZoQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNBfY2OC4Z0="
+							},
+							"lineStyle": 2,
+							"points": "208:280;400:280",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNssF2RE34Q="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hNs0xmRMoK4=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNs0xmRKB/I="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hNs0x2RNIoU=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNs0xmRMoK4="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hNs0xmRKB/I="
+									},
+									"font": "Arial;13;0",
+									"left": 235,
+									"top": 307,
+									"width": 138.77880859375,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hNs0xmRMoK4="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Xoá hàng hoá"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNVZO2OjZoQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNBfY2OC4Z0="
+							},
+							"lineStyle": 2,
+							"points": "208:328;400:328",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNs0x2RNIoU="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hNyuQWRpMgk=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hNyuQWRnov0="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hNyuQWRqms4=",
+									"_parent": {
+										"$ref": "AAAAAAF5hNyuQWRpMgk="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hNyuQWRnov0="
+									},
+									"font": "Arial;13;0",
+									"left": 230,
+									"top": 504,
+									"width": 150.1728515625,
+									"height": 13,
+									"alpha": 0.09495169735399311,
+									"distance": 105.47511554864494,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hNyuQWRpMgk="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Thêm đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNW3AGO1isU="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNBfY2OC4Z0="
+							},
+							"lineStyle": 2,
+							"points": "200:336;200:520;816:520",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hNyuQWRqms4="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5hN2B/2R5e0M=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hN2B/mR3V2Y="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hN2B/2R6X3c=",
+									"_parent": {
+										"$ref": "AAAAAAF5hN2B/2R5e0M="
+									},
+									"font": "Arial;13;0",
+									"left": 764,
+									"top": 234,
+									"width": 115,
+									"height": 13,
+									"text": "Hàng hoá",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hN2B/2R741Y=",
+									"_parent": {
+										"$ref": "AAAAAAF5hN2B/2R5e0M="
+									},
+									"font": "Arial;13;0",
+									"left": 749,
+									"top": 234,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 744,
+							"top": 224,
+							"width": 145,
+							"height": 121,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hN2B/2R6X3c="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hN2B/2R741Y="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hN39imSMb4Q=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hN39imSKuOY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hN39imSNZXs=",
+									"_parent": {
+										"$ref": "AAAAAAF5hN39imSMb4Q="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hN39imSKuOY="
+									},
+									"font": "Arial;13;0",
+									"left": 587,
+									"top": 307,
+									"width": 138.77880859375,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hN39imSMb4Q="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Xoá hàng hoá"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hN2B/2R5e0M="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNVZO2OjZoQ="
+							},
+							"lineStyle": 2,
+							"points": "568:328;744:328",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hN39imSNZXs="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hN4jtmSZSFw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hN4jtmSXK28="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hN4jtmSaB8o=",
+									"_parent": {
+										"$ref": "AAAAAAF5hN4jtmSZSFw="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hN4jtmSXK28="
+									},
+									"font": "Arial;13;0",
+									"left": 582,
+									"top": 219,
+									"width": 148.8779296875,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hN4jtmSZSFw="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Thêm hàng hoá"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hN2B/2R5e0M="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNVZO2OjZoQ="
+							},
+							"lineStyle": 2,
+							"points": "568:240;744:240",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hN4jtmSaB8o="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hN5GYmSkvK8=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hN5GYWSiaNE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hN5GYmSl674=",
+									"_parent": {
+										"$ref": "AAAAAAF5hN5GYmSkvK8="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hN5GYWSiaNE="
+									},
+									"font": "Arial;13;0",
+									"left": 586,
+									"top": 267,
+									"width": 140.25146484375,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hN5GYmSkvK8="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Sửa hàng hoá"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hN2B/2R5e0M="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNVZO2OjZoQ="
+							},
+							"lineStyle": 2,
+							"points": "568:288;744:288",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hN5GYmSl674="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5hN6/bGSvgSI=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hN6/bGSt0uY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hN6/bGSwIFw=",
+									"_parent": {
+										"$ref": "AAAAAAF5hN6/bGSvgSI="
+									},
+									"font": "Arial;13;0",
+									"left": 1172,
+									"top": 490,
+									"width": 107,
+									"height": 13,
+									"text": "Đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hN6/bGSxjFM=",
+									"_parent": {
+										"$ref": "AAAAAAF5hN6/bGSvgSI="
+									},
+									"font": "Arial;13;0",
+									"left": 1157,
+									"top": 490,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1152,
+							"top": 480,
+							"width": 137,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hN6/bGSwIFw="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hN6/bGSxjFM="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hN79w2S9nu8=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hN79wmS7ZHo="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hN79w2S+mz4=",
+									"_parent": {
+										"$ref": "AAAAAAF5hN79w2S9nu8="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hN79wmS7ZHo="
+									},
+									"font": "Arial;13;0",
+									"left": 993,
+									"top": 475,
+									"width": 150.1728515625,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hN79w2S9nu8="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Thêm đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hN6/bGSvgSI="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNW3AGO1isU="
+							},
+							"lineStyle": 2,
+							"points": "984:496;1152:496",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hN79w2S+mz4="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hO9Fl2TWXxE=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hO9FlmTUi0U="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hO9Fl2TX/wI=",
+									"_parent": {
+										"$ref": "AAAAAAF5hO9Fl2TWXxE="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hO9FlmTUi0U="
+									},
+									"font": "Arial;13;0",
+									"left": 744,
+									"top": 387,
+									"width": 119.9833984375,
+									"height": 13,
+									"alpha": -1.5997739331770635,
+									"distance": 69.02897942168927,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hO9Fl2TWXxE="
+									},
+									"edgePosition": 1,
+									"text": "Danh sách hàng hoá"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNW3AGO1isU="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hN2B/2R5e0M="
+							},
+							"lineStyle": 2,
+							"points": "872:344;872:448",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hO9Fl2TX/wI="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hO9R1mTfnTk=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hO9R1mTdllk="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hO9R12TgGIs=",
+									"_parent": {
+										"$ref": "AAAAAAF5hO9R1mTfnTk="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hO9R1mTdllk="
+									},
+									"font": "Arial;13;0",
+									"left": 992,
+									"top": 284,
+									"width": 125.0361328125,
+									"height": 13,
+									"alpha": 1.6220334209742726,
+									"distance": 78.10249675906654,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hO9R1mTfnTk="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin khách hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hNW3AGO1isU="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hNjDf2P2g04="
+							},
+							"lineStyle": 2,
+							"points": "976:141;976:448",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hO9R12TgGIs="
+							}
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF5hPg3tGT6PkM=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"fillColor": "#000000",
+							"fontColor": "#00d8b4",
+							"font": "Arial;13;0",
+							"left": 16,
+							"top": 24,
+							"width": 137,
+							"height": 41,
+							"text": "DFD Tạo đơn hàng"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF5hPxxRGUJCRM=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"fillColor": "#000000",
+							"fontColor": "#00d8b4",
+							"font": "Arial;13;0",
+							"left": 8,
+							"top": 568,
+							"width": 161,
+							"height": 49,
+							"text": "DFD Tiếp nhận đơn hàng"
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAF5hP0lA2UVe7M=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hP0lA2UT4ck="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sczOdJY4j4Q=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP0lA2UVe7M="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 805,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sRKrjhExPQM=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP0lA2UVe7M="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 805,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1PyIkqLe94=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP0lA2UVe7M="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 805,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5haIhTBugyt0=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP0lA2UVe7M="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 805,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hP0lA2UblDo=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP0lA2UVe7M="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 845,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hP0lA2UWmxM=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP0lA2UVe7M="
+									},
+									"font": "Arial;13;0",
+									"left": 90,
+									"top": 810,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "Nhân viên",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hP0lA2UXD1E=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP0lA2UVe7M="
+									},
+									"font": "Arial;13;0",
+									"left": -128,
+									"top": 88,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 80,
+							"top": 800,
+							"width": 107.4326171875,
+							"height": 73,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hP0lA2UWmxM="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5hP29r2UjKtM=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hP29rmUhV6c="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hP29r2UkoVQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP29r2UjKtM="
+									},
+									"font": "Arial;13;0",
+									"left": 578,
+									"top": 824,
+									"width": 149,
+									"height": 13,
+									"text": "Tiếp nhận đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hP29r2Ul/rw=",
+									"_parent": {
+										"$ref": "AAAAAAF5hP29r2UjKtM="
+									},
+									"font": "Arial;13;0",
+									"left": 578,
+									"top": 797,
+									"width": 149,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 568,
+							"top": 792,
+							"width": 169,
+							"height": 95,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hP29r2UkoVQ="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hP29r2Ul/rw="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5hQkURWVA6RI=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hQkURWU+W2c="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hQkURWVBo6w=",
+									"_parent": {
+										"$ref": "AAAAAAF5hQkURWVA6RI="
+									},
+									"font": "Arial;13;0",
+									"left": 596,
+									"top": 986,
+									"width": 123,
+									"height": 13,
+									"text": "Đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hQkURWVCTMg=",
+									"_parent": {
+										"$ref": "AAAAAAF5hQkURWVA6RI="
+									},
+									"font": "Arial;13;0",
+									"left": 581,
+									"top": 986,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 576,
+							"top": 976,
+							"width": 153,
+							"height": 41,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hQkURWVBo6w="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hQkURWVCTMg="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5hQlWtGVOOBQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hQlWs2VMJRU="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hQlWtGVPH08=",
+									"_parent": {
+										"$ref": "AAAAAAF5hQlWtGVOOBQ="
+									},
+									"font": "Arial;13;0",
+									"left": 588,
+									"top": 674,
+									"width": 139,
+									"height": 13,
+									"text": "Trạm trung chuyển",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hQlWtGVQcX4=",
+									"_parent": {
+										"$ref": "AAAAAAF5hQlWtGVOOBQ="
+									},
+									"font": "Arial;13;0",
+									"left": 573,
+									"top": 674,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 568,
+							"top": 664,
+							"width": 169,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hQlWtGVPH08="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hQlWtGVQcX4="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hSMwyGVlbtY=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hSMwx2VjZTI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hSMwyGVmgvg=",
+									"_parent": {
+										"$ref": "AAAAAAF5hSMwyGVlbtY="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hSMwx2VjZTI="
+									},
+									"font": "Arial;13;0",
+									"left": 662,
+									"top": 744,
+									"width": 140.91796875,
+									"height": 13,
+									"alpha": 1.5707960886996586,
+									"distance": 81,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hSMwyGVlbtY="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin trạm tiếp nhận"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hP29r2UjKtM="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hQlWtGVOOBQ="
+							},
+							"lineStyle": 2,
+							"points": "652:709;652:792",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hSMwyGVmgvg="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hSM952Vui7s=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hSM95mVsKUg="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hSM952Vvrq4=",
+									"_parent": {
+										"$ref": "AAAAAAF5hSM952Vui7s="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hSM95mVsKUg="
+									},
+									"font": "Arial;13;0",
+									"left": 479,
+									"top": 928,
+									"width": 176.20458984375,
+									"height": 13,
+									"alpha": -4.677109280421792,
+									"distance": 85.05292469985967,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hSM952Vui7s="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Đơn hàng  tiếp nhận"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hP29r2UjKtM="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hQkURWVA6RI="
+							},
+							"lineStyle": 2,
+							"points": "652:976;652:886",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hSM952Vvrq4="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5hSPNw2V7cXU=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hSPNw2V5HRs="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hSPNw2V8tv0=",
+									"_parent": {
+										"$ref": "AAAAAAF5hSPNw2V7cXU="
+									},
+									"font": "Arial;13;0",
+									"left": 956,
+									"top": 810,
+									"width": 211,
+									"height": 13,
+									"text": "Đơn hàng - Trạm trung chuyển",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hSPNw2V9PiU=",
+									"_parent": {
+										"$ref": "AAAAAAF5hSPNw2V7cXU="
+									},
+									"font": "Arial;13;0",
+									"left": 941,
+									"top": 810,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 936,
+							"top": 800,
+							"width": 241,
+							"height": 72,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hSPNw2V8tv0="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hSPNw2V9PiU="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hSQHMWWJReo=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hSQHMWWH4hc="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hSQHMWWKjyw=",
+									"_parent": {
+										"$ref": "AAAAAAF5hSQHMWWJReo="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hSQHMWWH4hc="
+									},
+									"font": "Arial;13;0",
+									"left": 755,
+									"top": 817,
+									"width": 163.42041015625,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hSQHMWWJReo="
+									},
+									"edgePosition": 1,
+									"text": "Tiếp nhận đơn hàng tại trạm"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hSPNw2V7cXU="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hP29r2UjKtM="
+							},
+							"lineStyle": 2,
+							"points": "736:838;936:838",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hSQHMWWKjyw="
+							}
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF5hTHd4GWRyf4=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"fillColor": "#000000",
+							"fontColor": "#00d8b4",
+							"font": "Arial;13;0",
+							"left": 16,
+							"top": 1080,
+							"width": 153,
+							"height": 57,
+							"text": "Điều phối đơn hàng"
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5hTfAe2Wds4E=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hTfAemWbj7M="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hTfAe2We4ow=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTfAe2Wds4E="
+									},
+									"font": "Arial;13;0",
+									"left": 818,
+									"top": 1352,
+									"width": 133,
+									"height": 13,
+									"text": "Điều phối đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hTfAe2WfBI8=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTfAe2Wds4E="
+									},
+									"font": "Arial;13;0",
+									"left": 818,
+									"top": 1325,
+									"width": 133,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 808,
+							"top": 1320,
+							"width": 153,
+							"height": 97,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hTfAe2We4ow="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hTfAe2WfBI8="
+							}
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAF5hTgxW2WteYI=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hTgxW2WrMdQ="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sczOdZZkNrg=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTgxW2WteYI="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 1341,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sRKrkBFfOU0=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTgxW2WteYI="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 1341,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1PyJEq438s=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTgxW2WteYI="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 1341,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5haIhThvMvVs=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTgxW2WteYI="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 1341,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hTgxW2Wzes8=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTgxW2WteYI="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 1381,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hTgxW2Wuzt0=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTgxW2WteYI="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 1346,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "Nhân viên",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hTgxW2WvoDI=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTgxW2WteYI="
+									},
+									"font": "Arial;13;0",
+									"left": -176,
+									"top": 248,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 96,
+							"top": 1336,
+							"width": 107.4326171875,
+							"height": 73,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hTgxW2Wuzt0="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hTj59mW8evg=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hTj59mW66I8="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hTj592W9Tdo=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTj59mW8evg="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hTj59mW66I8="
+									},
+									"font": "Arial;13;0",
+									"left": 15,
+									"top": 914,
+									"width": 170.3837890625,
+									"height": 13,
+									"alpha": -3.9327711575665565,
+									"distance": 122.3315167894194,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hTj59mW8evg="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin tìm kiếm đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5see3Opl4Pnw="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hP0lA2UVe7M="
+							},
+							"lineStyle": 2,
+							"points": "186:872;186:1008;256:1008",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hTj592W9Tdo="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hTkxN2XS4fw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hTkxN2XQC30="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hTkxN2XTbAk=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTkxN2XS4fw="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hTkxN2XQC30="
+									},
+									"font": "Arial;13;0",
+									"left": 383,
+									"top": 792,
+									"width": 140.91796875,
+									"height": 13,
+									"alpha": 0.13082737905567932,
+									"distance": 76.6550715869472,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hTkxN2XS4fw="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin trạm tiếp nhận"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hP29r2UjKtM="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hP0lA2UVe7M="
+							},
+							"lineStyle": 2,
+							"points": "186:808;568:808",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hTkxN2XTbAk="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5hTz8KmXs3ig=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hTz8KWXqsGo="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hTz8KmXt9Pw=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTz8KmXs3ig="
+									},
+									"font": "Arial;13;0",
+									"left": 442,
+									"top": 1160,
+									"width": 141,
+									"height": 13,
+									"text": "Quản lý shipper",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hTz8KmXuzMQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5hTz8KmXs3ig="
+									},
+									"font": "Arial;13;0",
+									"left": 442,
+									"top": 1133,
+									"width": 141,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 432,
+							"top": 1128,
+							"width": 161,
+							"height": 105,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hTz8KmXt9Pw="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hTz8KmXuzMQ="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hT478mX/XiQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hT478mX9V8Y="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hT4782YAncA=",
+									"_parent": {
+										"$ref": "AAAAAAF5hT478mX/XiQ="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hT478mX9V8Y="
+									},
+									"font": "Arial;13;0",
+									"left": 224,
+									"top": 1144,
+									"width": 153.17529296875,
+									"height": 13,
+									"alpha": 0.07130745970914856,
+									"distance": 140.356688476182,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hT478mX/XiQ="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin tìm kiếm shipper"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hTz8KmXs3ig="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hTgxW2WteYI="
+							},
+							"lineStyle": 2,
+							"points": "160:1336;160:1160;432:1160",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hT4782YAncA="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hUAASmYTVqw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hUAASmYRxns="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hUAASmYU7y8=",
+									"_parent": {
+										"$ref": "AAAAAAF5hUAASmYTVqw="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hUAASmYRxns="
+									},
+									"font": "Arial;13;0",
+									"left": 216,
+									"top": 1192,
+									"width": 163.1474609375,
+									"height": 13,
+									"alpha": 0.09495169735399311,
+									"distance": 105.47511554864494,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hUAASmYTVqw="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Thêm mới shipper"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hTz8KmXs3ig="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hTgxW2WteYI="
+							},
+							"lineStyle": 2,
+							"points": "192:1336;192:1208;432:1208",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hUAASmYU7y8="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5hUDoS2YkW2A=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hUDoS2Yi/eE="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hUDoTGYlJzA=",
+									"_parent": {
+										"$ref": "AAAAAAF5hUDoS2YkW2A="
+									},
+									"font": "Arial;13;0",
+									"left": 836,
+									"top": 1154,
+									"width": 107,
+									"height": 13,
+									"text": "Shipper",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5hUDoTGYmGTU=",
+									"_parent": {
+										"$ref": "AAAAAAF5hUDoS2YkW2A="
+									},
+									"font": "Arial;13;0",
+									"left": 821,
+									"top": 1154,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 816,
+							"top": 1144,
+							"width": 137,
+							"height": 73,
+							"nameLabel": {
+								"$ref": "AAAAAAF5hUDoTGYlJzA="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5hUDoTGYmGTU="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hUE3TmY2NYY=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hUE3TWY0Gv4="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hUE3TmY3GH8=",
+									"_parent": {
+										"$ref": "AAAAAAF5hUE3TmY2NYY="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hUE3TWY0Gv4="
+									},
+									"font": "Arial;13;0",
+									"left": 623,
+									"top": 1187,
+									"width": 163.1474609375,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hUE3TmY2NYY="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin Thêm mới shipper"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hUDoS2YkW2A="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hTz8KmXs3ig="
+							},
+							"lineStyle": 2,
+							"points": "592:1208;816:1208",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hUE3TmY3GH8="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hUHFTGZQvho=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hUHFTGZOzdc="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hUHFTGZRFE4=",
+									"_parent": {
+										"$ref": "AAAAAAF5hUHFTGZQvho="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hUHFTGZOzdc="
+									},
+									"font": "Arial;13;0",
+									"left": 654,
+									"top": 1144,
+									"width": 100.45166015625,
+									"height": 13,
+									"alpha": 4.7123879803846895,
+									"distance": 10,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hUHFTGZQvho="
+									},
+									"edgePosition": 1,
+									"text": "Kết quả tìm kiếm"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hTz8KmXs3ig="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hUDoS2YkW2A="
+							},
+							"lineStyle": 2,
+							"points": "816:1160;592:1160",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hUHFTGZRFE4="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hUfe2WbYd/Y=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hUfe2WbWv1I="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hUfe2WbZslg=",
+									"_parent": {
+										"$ref": "AAAAAAF5hUfe2WbYd/Y="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hUfe2WbWv1I="
+									},
+									"font": "Arial;13;0",
+									"left": 447,
+									"top": 1352,
+									"width": 176.94091796875,
+									"height": 13,
+									"alpha": 0.5404193532117967,
+									"distance": 34.9857113690718,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hUfe2WbYd/Y="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin đơn hàng cần giao"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hTfAe2Wds4E="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hTgxW2WteYI="
+							},
+							"lineStyle": 2,
+							"points": "202:1376;808:1376",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hUfe2WbZslg="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5hUkaSWcE2IQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5hUkaSWcC3yg="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5hUkaSWcFdtw=",
+									"_parent": {
+										"$ref": "AAAAAAF5hUkaSWcE2IQ="
+									},
+									"model": {
+										"$ref": "AAAAAAF5hUkaSWcC3yg="
+									},
+									"font": "Arial;13;0",
+									"left": 855,
+									"top": 1256,
+									"width": 192.11181640625,
+									"height": 13,
+									"alpha": 1.66011011422076,
+									"distance": 67.26812023536856,
+									"hostEdge": {
+										"$ref": "AAAAAAF5hUkaSWcE2IQ="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin shipper"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5hTfAe2Wds4E="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hUDoS2YkW2A="
+							},
+							"lineStyle": 2,
+							"points": "884:1216;884:1320",
+							"nameLabel": {
+								"$ref": "AAAAAAF5hUkaSWcFdtw="
+							}
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF5haPUihw+7Vw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"fillColor": "#000000",
+							"fontColor": "#00d8b4",
+							"font": "Arial;13;0",
+							"left": 8,
+							"top": 1560,
+							"width": 137,
+							"height": 51,
+							"text": "Tra cứu đơn hàng"
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAF5haRZOBxIh4U=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5haRZOBxGVVg="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sczOd5aQNKo=",
+									"_parent": {
+										"$ref": "AAAAAAF5haRZOBxIh4U="
+									},
+									"font": "Arial;13;0",
+									"left": 114,
+									"top": 1749,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sRKrlBGld34=",
+									"_parent": {
+										"$ref": "AAAAAAF5haRZOBxIh4U="
+									},
+									"font": "Arial;13;0",
+									"left": 114,
+									"top": 1749,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1PyKEr9ayY=",
+									"_parent": {
+										"$ref": "AAAAAAF5haRZOBxIh4U="
+									},
+									"font": "Arial;13;0",
+									"left": 114,
+									"top": 1749,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5haRZORxOQLQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5haRZOBxIh4U="
+									},
+									"font": "Arial;13;0",
+									"left": 114,
+									"top": 1749,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5haRZOBxJHfU=",
+									"_parent": {
+										"$ref": "AAAAAAF5haRZOBxIh4U="
+									},
+									"font": "Arial;13;0",
+									"left": 114,
+									"top": 1754,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "Khách hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5haRZOBxK6AI=",
+									"_parent": {
+										"$ref": "AAAAAAF5haRZOBxIh4U="
+									},
+									"font": "Arial;13;0",
+									"left": -88,
+									"top": -72,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 104,
+							"top": 1744,
+							"width": 107.4326171875,
+							"height": 129,
+							"nameLabel": {
+								"$ref": "AAAAAAF5haRZOBxJHfU="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5h1QUo0s1Psw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h1QUokszfJI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1QUo0s27EU=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1QUo0s1Psw="
+									},
+									"font": "Arial;13;0",
+									"left": 466,
+									"top": 1768,
+									"width": 197,
+									"height": 13,
+									"text": "Tra cứu đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1QUo0s3VJo=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1QUo0s1Psw="
+									},
+									"font": "Arial;13;0",
+									"left": 466,
+									"top": 1741,
+									"width": 197,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 456,
+							"top": 1736,
+							"width": 217,
+							"height": 137,
+							"nameLabel": {
+								"$ref": "AAAAAAF5h1QUo0s27EU="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5h1QUo0s3VJo="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5h1TQhktEGUA=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h1TQhUtCKms="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5h1TQhktF6o8=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1TQhktEGUA="
+									},
+									"model": {
+										"$ref": "AAAAAAF5h1TQhUtCKms="
+									},
+									"font": "Arial;13;0",
+									"left": 272,
+									"top": 1787,
+									"width": 122.0146484375,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5h1TQhktEGUA="
+									},
+									"edgePosition": 1,
+									"text": "Mã đơn hàng tra cứu"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5h1QUo0s1Psw="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5haRZOBxIh4U="
+							},
+							"lineStyle": 2,
+							"points": "210:1808;456:1808",
+							"nameLabel": {
+								"$ref": "AAAAAAF5h1TQhktF6o8="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5h1URyUtOiXs=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h1URyUtMkwg="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1URyUtPOXM=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1URyUtOiXs="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 1834,
+									"width": 115,
+									"height": 13,
+									"text": "Đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1URyUtQKG4=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1URyUtOiXs="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 1834,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 1824,
+							"width": 145,
+							"height": 41,
+							"nameLabel": {
+								"$ref": "AAAAAAF5h1URyUtPOXM="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5h1URyUtQKG4="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5h1VEUEtajAc=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h1VEUEtYKhY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5h1VEUEtbe2k=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1VEUEtajAc="
+									},
+									"model": {
+										"$ref": "AAAAAAF5h1VEUEtYKhY="
+									},
+									"font": "Arial;13;0",
+									"left": 727,
+									"top": 1831,
+									"width": 166.0546875,
+									"height": 13,
+									"alpha": -1.3734017284836622,
+									"distance": 10.198039027185569,
+									"hostEdge": {
+										"$ref": "AAAAAAF5h1VEUEtajAc="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin đơn hàng tìm kiếm"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5h1QUo0s1Psw="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5h1URyUtOiXs="
+							},
+							"lineStyle": 2,
+							"points": "952:1848;672:1848",
+							"nameLabel": {
+								"$ref": "AAAAAAF5h1VEUEtbe2k="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5h1w3vEuAwWE=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h1w3u0t+bBU="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1w3vEuBOiY=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1w3vEuAwWE="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 1650,
+									"width": 123,
+									"height": 13,
+									"text": "Trạm trung chuyển",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1w3vEuCCDQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1w3vEuAwWE="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 1650,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 1640,
+							"width": 153,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF5h1w3vEuBOiY="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5h1w3vEuCCDQ="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5h1yRekuRqwE=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h1yRekuP2/Y="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1yRe0uS2As=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1yRekuRqwE="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 1754,
+									"width": 115,
+									"height": 13,
+									"text": "Hàng hoá",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1yRe0uTEDQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1yRekuRqwE="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 1754,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 1744,
+							"width": 145,
+							"height": 40,
+							"nameLabel": {
+								"$ref": "AAAAAAF5h1yRe0uS2As="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5h1yRe0uTEDQ="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5h1zFJUufIaQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h1zFJUudgxk="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1zFJUugTmE=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1zFJUufIaQ="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 1930,
+									"width": 107,
+									"height": 13,
+									"text": "Khách hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5h1zFJUuhMoQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5h1zFJUufIaQ="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 1930,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 1920,
+							"width": 137,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF5h1zFJUugTmE="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5h1zFJUuhMoQ="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5h2K9vkvDWf4=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h2K9vkvBpAY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5h2K9vkvEKhk=",
+									"_parent": {
+										"$ref": "AAAAAAF5h2K9vkvDWf4="
+									},
+									"model": {
+										"$ref": "AAAAAAF5h2K9vkvBpAY="
+									},
+									"font": "Arial;13;0",
+									"left": 743,
+									"top": 1927,
+									"width": 141.5146484375,
+									"height": 13,
+									"alpha": -1.5202064783647888,
+									"distance": 158.2024020045208,
+									"hostEdge": {
+										"$ref": "AAAAAAF5h2K9vkvDWf4="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin chủ đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5h1QUo0s1Psw="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5h1zFJUufIaQ="
+							},
+							"lineStyle": 2,
+							"points": "952:1942;656:1942;656:1872",
+							"nameLabel": {
+								"$ref": "AAAAAAF5h2K9vkvEKhk="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5h2LIfEvMJ9o=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h2LIfEvKc1M="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5h2LIfEvNfPU=",
+									"_parent": {
+										"$ref": "AAAAAAF5h2LIfEvMJ9o="
+									},
+									"model": {
+										"$ref": "AAAAAAF5h2LIfEvKc1M="
+									},
+									"font": "Arial;13;0",
+									"left": 704,
+									"top": 1751,
+									"width": 203.68359375,
+									"height": 13,
+									"alpha": -0.9600710335469431,
+									"distance": 12.206555615733702,
+									"hostEdge": {
+										"$ref": "AAAAAAF5h2LIfEvMJ9o="
+									},
+									"edgePosition": 1,
+									"text": "Danh sách hàng hoá của đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5h1QUo0s1Psw="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5h1yRekuRqwE="
+							},
+							"lineStyle": 2,
+							"points": "952:1768;672:1768",
+							"nameLabel": {
+								"$ref": "AAAAAAF5h2LIfEvNfPU="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5h2LR2kvVS6Y=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5h2LR2UvTQ3Y="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5h2LR2kvWETI=",
+									"_parent": {
+										"$ref": "AAAAAAF5h2LR2kvVS6Y="
+									},
+									"model": {
+										"$ref": "AAAAAAF5h2LR2UvTQ3Y="
+									},
+									"font": "Arial;13;0",
+									"left": 687,
+									"top": 1648,
+									"width": 226.0654296875,
+									"height": 13,
+									"alpha": 1.6262946930593247,
+									"distance": 144.22205101855957,
+									"hostEdge": {
+										"$ref": "AAAAAAF5h2LR2kvVS6Y="
+									},
+									"edgePosition": 1,
+									"text": "Danh sách trạm đã tiếp nhận đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5h1QUo0s1Psw="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5h1w3vEuAwWE="
+							},
+							"lineStyle": 2,
+							"points": "952:1662;656:1662;656:1736",
+							"nameLabel": {
+								"$ref": "AAAAAAF5h2LR2kvWETI="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5sR6DShKvu/E=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sR6DShKtQl0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sR6DShKw3vE=",
+									"_parent": {
+										"$ref": "AAAAAAF5sR6DShKvu/E="
+									},
+									"font": "Arial;13;0",
+									"left": 1196,
+									"top": 1354,
+									"width": 91,
+									"height": 13,
+									"text": "Đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sR6DShKxm4w=",
+									"_parent": {
+										"$ref": "AAAAAAF5sR6DShKvu/E="
+									},
+									"font": "Arial;13;0",
+									"left": 1181,
+									"top": 1354,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1176,
+							"top": 1344,
+							"width": 121,
+							"height": 41,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sR6DShKw3vE="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5sR6DShKxm4w="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sR7DyhK8A2w=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sR7DyhK6PHI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sR7DyhK9P9I=",
+									"_parent": {
+										"$ref": "AAAAAAF5sR7DyhK8A2w="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sR7DyhK6PHI="
+									},
+									"font": "Arial;13;0",
+									"left": 975,
+									"top": 1375,
+									"width": 192.11181640625,
+									"height": 13,
+									"alpha": -1.405647108839778,
+									"distance": 18.24828759089466,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sR7DyhK8A2w="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin shipper nhận đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sR6DShKvu/E="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hTfAe2Wds4E="
+							},
+							"points": "960:1364;1176:1364",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sR7DyhK9P9I="
+							}
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF5sSsfyBLsEvg=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"font": "Arial;13;0",
+							"left": 16,
+							"top": 1992,
+							"width": 129,
+							"height": 57,
+							"text": "Xuất phiếu gửi"
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAF5sSxzbhL2taA=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sSxzbhL0FwI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd1yPZjmPyg=",
+									"_parent": {
+										"$ref": "AAAAAAF5sSxzbhL2taA="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 2093,
+									"width": 101,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sczOeJbJikI=",
+									"_parent": {
+										"$ref": "AAAAAAF5sSxzbhL2taA="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 2093,
+									"width": 101,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sSxzbxL8NTI=",
+									"_parent": {
+										"$ref": "AAAAAAF5sSxzbhL2taA="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 2093,
+									"width": 101,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sSxzbhL3QGA=",
+									"_parent": {
+										"$ref": "AAAAAAF5sSxzbhL2taA="
+									},
+									"font": "Arial;13;0",
+									"left": 106,
+									"top": 2098,
+									"width": 101,
+									"height": 13,
+									"text": "Nhân viên",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sSxzbhL4Gf0=",
+									"_parent": {
+										"$ref": "AAAAAAF5sSxzbhL2taA="
+									},
+									"font": "Arial;13;0",
+									"left": -224,
+									"top": 24,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 96,
+							"top": 2088,
+							"width": 121,
+							"height": 97,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sSxzbhL3QGA="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5sTBUlhM3sf0=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sTBUlhM1u+k="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sTBUlhM4HBg=",
+									"_parent": {
+										"$ref": "AAAAAAF5sTBUlhM3sf0="
+									},
+									"font": "Arial;13;0",
+									"left": 506,
+									"top": 2104,
+									"width": 125,
+									"height": 13,
+									"text": "Xuất phiếu gửi",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sTBUlhM5HJI=",
+									"_parent": {
+										"$ref": "AAAAAAF5sTBUlhM3sf0="
+									},
+									"font": "Arial;13;0",
+									"left": 506,
+									"top": 2077,
+									"width": 125,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 496,
+							"top": 2072,
+							"width": 145,
+							"height": 121,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sTBUlhM4HBg="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5sTBUlhM5HJI="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sTGqQRNJ85o=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sTGqQRNHnkI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sTGqQRNK8pE=",
+									"_parent": {
+										"$ref": "AAAAAAF5sTGqQRNJ85o="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sTGqQRNHnkI="
+									},
+									"font": "Arial;13;0",
+									"left": 280,
+									"top": 2089,
+									"width": 143.685546875,
+									"height": 13,
+									"alpha": -4.4095046814048375,
+									"distance": 16.76305461424021,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sTGqQRNJ85o="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sTBUlhM3sf0="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5sSxzbhL2taA="
+							},
+							"lineStyle": 2,
+							"points": "216:2112;496:2112",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sTGqQRNK8pE="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sdlS8pcaSVs=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sdlS8ZcYAuM="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sdlS8pcbdgQ=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdlS8pcaSVs="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sdlS8ZcYAuM="
+									},
+									"font": "Arial;13;0",
+									"left": 311,
+									"top": 2161,
+									"width": 88.21337890625,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sdlS8pcaSVs="
+									},
+									"edgePosition": 1,
+									"text": "Phiếu gửi hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sSxzbhL2taA="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5sTBUlhM3sf0="
+							},
+							"lineStyle": 2,
+							"points": "496:2152;216:2152",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sdlS8pcbdgQ="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5sdnFtJclBrw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sdnFtJcjYPU="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sdnFtZcmv0c=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdnFtJclBrw="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 2122,
+									"width": 65.76171875,
+									"height": 13,
+									"text": "Đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sdnFtZcnZjk=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdnFtJclBrw="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 2122,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 2112,
+							"width": 95.76171875,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sdnFtZcmv0c="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5sdnFtZcnZjk="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5sdnqPZcyYf8=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sdnqPZcwgR4="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sdnqPZcz5uA=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdnqPZcyYf8="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 2066,
+									"width": 65.76171875,
+									"height": 13,
+									"text": "Hàng hoá",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sdnqPZc0qkg=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdnqPZcyYf8="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 2066,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 2056,
+							"width": 95.76171875,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sdnqPZcz5uA="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5sdnqPZc0qkg="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5sdojmJdDlUQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sdojmJdB90w="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sdojmJdEZvs=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdojmJdDlUQ="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 2186,
+									"width": 91,
+									"height": 13,
+									"text": "Khách hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sdojmJdFeV0=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdojmJdDlUQ="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 2186,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 2176,
+							"width": 121,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sdojmJdEZvs="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5sdojmJdFeV0="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sdpNV5dRy0s=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sdpNVpdP0qo="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sdpNV5dST8A=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdpNV5dRy0s="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sdpNVpdP0qo="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 795,
+									"top": 2081,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sdpNV5dRy0s="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sTBUlhM3sf0="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5sdnqPZcyYf8="
+							},
+							"lineStyle": 2,
+							"points": "952:2072;640:2072",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sdpNV5dST8A="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sdp0J5dcY2Q=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sdp0J5daekg="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sdp0J5ddc2o=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdp0J5dcY2Q="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sdp0J5daekg="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 795,
+									"top": 2140,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sdp0J5dcY2Q="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sTBUlhM3sf0="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5sdnFtJclBrw="
+							},
+							"lineStyle": 2,
+							"points": "952:2131;640:2131",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sdp0J5ddc2o="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sdp9L5dlQJQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sdp9L5dj52I="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sdp9L5dm/to=",
+									"_parent": {
+										"$ref": "AAAAAAF5sdp9L5dlQJQ="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sdp9L5dj52I="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 795,
+									"top": 2198,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sdp9L5dlQJQ="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sTBUlhM3sf0="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5sdojmJdDlUQ="
+							},
+							"lineStyle": 2,
+							"points": "952:2189;640:2189",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sdp9L5dm/to="
+							}
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF5sdvbwZflHuU=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"font": "Arial;13;0",
+							"left": 16,
+							"top": 2280,
+							"width": 70,
+							"height": 40,
+							"text": "Thống kê"
+						},
+						{
+							"_type": "DFDExternalEntityView",
+							"_id": "AAAAAAF5sd2XU5kbVbo=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sd2XU5kZr24="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd2XVJkhmRw=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd2XU5kbVbo="
+									},
+									"font": "Arial;13;0",
+									"left": 98,
+									"top": 2381,
+									"width": 87.4326171875,
+									"height": 13
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd2XU5kcFYo=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd2XU5kbVbo="
+									},
+									"font": "Arial;13;0",
+									"left": 98,
+									"top": 2386,
+									"width": 87.4326171875,
+									"height": 13,
+									"text": "Quản lý",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd2XU5kd8tc=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd2XU5kbVbo="
+									},
+									"font": "Arial;13;0",
+									"left": -48,
+									"top": 8,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 88,
+							"top": 2376,
+							"width": 107.4326171875,
+							"height": 81,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sd2XU5kcFYo="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5sd3fHZkrMco=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sd3fHJkpNXc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd3fHZksvRk=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd3fHZkrMco="
+									},
+									"font": "Arial;13;0",
+									"left": 498,
+									"top": 2368,
+									"width": 141,
+									"height": 13,
+									"text": "Thống kê",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd3fHZkt2F0=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd3fHZkrMco="
+									},
+									"font": "Arial;13;0",
+									"left": 498,
+									"top": 2341,
+									"width": 141,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 488,
+							"top": 2336,
+							"width": 161,
+							"height": 153,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sd3fHZksvRk="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5sd3fHZkt2F0="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sd4AfJk5jYU=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sd4AfJk3mwE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sd4AfZk6ba4=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd4AfJk5jYU="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sd4AfJk3mwE="
+									},
+									"font": "Arial;13;0",
+									"left": 275,
+									"top": 2394,
+									"width": 132.10107421875,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sd4AfJk5jYU="
+									},
+									"edgePosition": 1,
+									"text": "Mốc thời gian thống kê"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sd3fHZkrMco="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5sd2XU5kbVbo="
+							},
+							"lineStyle": 2,
+							"points": "194:2415;488:2415",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sd4AfZk6ba4="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5sd6M55lFDpE=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sd6M55lDc5w="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd6M55lGwKk=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd6M55lFDpE="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 2338,
+									"width": 91,
+									"height": 13,
+									"text": "Đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd6M55lH2n8=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd6M55lFDpE="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 2338,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 2328,
+							"width": 121,
+							"height": 81,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sd6M55lGwKk="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5sd6M55lH2n8="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sd61gplUrpQ=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sd61gplSOFE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sd61gplVLv8=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd61gplUrpQ="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sd61gplSOFE="
+									},
+									"font": "Arial;13;0",
+									"left": 716,
+									"top": 2377,
+									"width": 166.83544921875,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sd61gplUrpQ="
+									},
+									"edgePosition": 1,
+									"text": "Thống số lượng và doanh số"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sd3fHZkrMco="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5sd6M55lFDpE="
+							},
+							"lineStyle": 2,
+							"points": "952:2368;648:2368",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sd61gplVLv8="
+							}
+						},
+						{
+							"_type": "DFDDataStoreView",
+							"_id": "AAAAAAF5sd9ejplgRSw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sd9ejplezwY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd9ejplhOWs=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd9ejplgRSw="
+									},
+									"font": "Arial;13;0",
+									"left": 972,
+									"top": 2458,
+									"width": 65.76171875,
+									"height": 13,
+									"text": "Hàng hoá",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5sd9ejpliiGU=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd9ejplgRSw="
+									},
+									"font": "Arial;13;0",
+									"left": 957,
+									"top": 2458,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 952,
+							"top": 2448,
+							"width": 95.76171875,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF5sd9ejplhOWs="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5sd9ejpliiGU="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5sd+HyZltc5s=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5sd+HyZlrdK0="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5sd+HyZlu1FE=",
+									"_parent": {
+										"$ref": "AAAAAAF5sd+HyZltc5s="
+									},
+									"model": {
+										"$ref": "AAAAAAF5sd+HyZlrdK0="
+									},
+									"font": "Arial;13;0",
+									"left": 727,
+									"top": 2467,
+									"width": 144.56787109375,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5sd+HyZltc5s="
+									},
+									"edgePosition": 1,
+									"text": "Tổng doanh số hàng hoá"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5sd3fHZkrMco="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5sd9ejplgRSw="
+							},
+							"lineStyle": 2,
+							"points": "952:2458;648:2458",
+							"nameLabel": {
+								"$ref": "AAAAAAF5sd+HyZlu1FE="
+							}
+						},
+						{
+							"_type": "DFDProcessView",
+							"_id": "AAAAAAF5see3Opl4Pnw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5see3OZl2K2I="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5see3Opl5TBI=",
+									"_parent": {
+										"$ref": "AAAAAAF5see3Opl4Pnw="
+									},
+									"font": "Arial;13;0",
+									"left": 266,
+									"top": 968,
+									"width": 109,
+									"height": 13,
+									"text": "Quản lý đơn hàng",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF5see3Opl6e9I=",
+									"_parent": {
+										"$ref": "AAAAAAF5see3Opl4Pnw="
+									},
+									"font": "Arial;13;0",
+									"left": 266,
+									"top": 941,
+									"width": 109,
+									"height": 13
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 256,
+							"top": 936,
+							"width": 129,
+							"height": 89,
+							"nameLabel": {
+								"$ref": "AAAAAAF5see3Opl5TBI="
+							},
+							"idLabel": {
+								"$ref": "AAAAAAF5see3Opl6e9I="
+							}
+						},
+						{
+							"_type": "DFDDataFlowView",
+							"_id": "AAAAAAF5seiLSpmbyMw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBQYGN84ZQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF5seiLSpmZ8kU="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF5seiLSpmclRI=",
+									"_parent": {
+										"$ref": "AAAAAAF5seiLSpmbyMw="
+									},
+									"model": {
+										"$ref": "AAAAAAF5seiLSpmZ8kU="
+									},
+									"font": "Arial;13;0",
+									"left": 423,
+									"top": 1005,
+									"width": 113.3310546875,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF5seiLSpmbyMw="
+									},
+									"edgePosition": 1,
+									"text": "Thông tin đơn hàng"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF5see3Opl4Pnw="
+							},
+							"tail": {
+								"$ref": "AAAAAAF5hQkURWVA6RI="
+							},
+							"lineStyle": 2,
+							"points": "576:996;384:996",
+							"nameLabel": {
+								"$ref": "AAAAAAF5seiLSpmclRI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAF5hNBfYmOADtA=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Nhân viên",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hNeT/WPY430=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"name": "Thông tin Thêm khách hàng",
+							"source": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNSE2WOPGzk="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hNhDc2Pn+rY=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"name": "Thông tin Tìm khách hàng",
+							"source": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNSE2WOPGzk="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hNq63mQlp3I=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"name": "Thông tin Thêm hàng hoá",
+							"source": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hNssF2RBQZM=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"name": "Thông tin Sửa hàng hoá",
+							"source": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hNs0xmRKB/I=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"name": "Thông tin Xoá hàng hoá",
+							"source": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hNyuQWRnov0=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"name": "Thông tin Thêm đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5hNBfYmOADtA="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNW2/2OzdJM="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5hNSE2WOPGzk=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "QL Khách hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hNlcCmQQxHw=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNSE2WOPGzk="
+							},
+							"name": "Thông tin Thêm khách hàng",
+							"source": {
+								"$ref": "AAAAAAF5hNSE2WOPGzk="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNjDf2P0B2s="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5hNVZO2Oh2Zo=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "QL Hàng hoá",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hN39imSKuOY=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							},
+							"name": "Thông tin Xoá hàng hoá",
+							"source": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hN2B/mR3V2Y="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hN4jtmSXK28=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							},
+							"name": "Thông tin Thêm hàng hoá",
+							"source": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hN2B/mR3V2Y="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hN5GYWSiaNE=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							},
+							"name": "Thông tin Sửa hàng hoá",
+							"source": {
+								"$ref": "AAAAAAF5hNVZO2Oh2Zo="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hN2B/mR3V2Y="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5hNW2/2OzdJM=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Tạo Đơn hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hN79wmS7ZHo=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNW2/2OzdJM="
+							},
+							"name": "Thông tin Thêm đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5hNW2/2OzdJM="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hN6/bGSt0uY="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5hNjDf2P0B2s=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Khách hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hNj4TWQCbAk=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNjDf2P0B2s="
+							},
+							"name": "Kết quả tìm khách hàng",
+							"source": {
+								"$ref": "AAAAAAF5hNjDf2P0B2s="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNSE2WOPGzk="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hO9R1mTdllk=",
+							"_parent": {
+								"$ref": "AAAAAAF5hNjDf2P0B2s="
+							},
+							"name": "Thông tin khách hàng",
+							"source": {
+								"$ref": "AAAAAAF5hNjDf2P0B2s="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNW2/2OzdJM="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5hN2B/mR3V2Y=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Hàng hoá",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hO9FlmTUi0U=",
+							"_parent": {
+								"$ref": "AAAAAAF5hN2B/mR3V2Y="
+							},
+							"name": "Danh sách hàng hoá",
+							"source": {
+								"$ref": "AAAAAAF5hN2B/mR3V2Y="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hNW2/2OzdJM="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5hN6/bGSt0uY=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Đơn hàng"
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAF5hP0lA2UT4ck=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Nhân viên",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hTj59mW66I8=",
+							"_parent": {
+								"$ref": "AAAAAAF5hP0lA2UT4ck="
+							},
+							"name": "Thông tin tìm kiếm đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5hP0lA2UT4ck="
+							},
+							"target": {
+								"$ref": "AAAAAAF5see3OZl2K2I="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hTkxN2XQC30=",
+							"_parent": {
+								"$ref": "AAAAAAF5hP0lA2UT4ck="
+							},
+							"name": "Thông tin trạm tiếp nhận",
+							"source": {
+								"$ref": "AAAAAAF5hP0lA2UT4ck="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hP29rmUhV6c="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5hP29rmUhV6c=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Tiếp nhận đơn hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hSQHMWWH4hc=",
+							"_parent": {
+								"$ref": "AAAAAAF5hP29rmUhV6c="
+							},
+							"name": "Tiếp nhận đơn hàng tại trạm",
+							"source": {
+								"$ref": "AAAAAAF5hP29rmUhV6c="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hSPNw2V5HRs="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5hQkURWU+W2c=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Đơn hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hSM95mVsKUg=",
+							"_parent": {
+								"$ref": "AAAAAAF5hQkURWU+W2c="
+							},
+							"name": "Thông tin Đơn hàng  tiếp nhận",
+							"source": {
+								"$ref": "AAAAAAF5hQkURWU+W2c="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hP29rmUhV6c="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5seiLSpmZ8kU=",
+							"_parent": {
+								"$ref": "AAAAAAF5hQkURWU+W2c="
+							},
+							"name": "Thông tin đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5hQkURWU+W2c="
+							},
+							"target": {
+								"$ref": "AAAAAAF5see3OZl2K2I="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5hQlWs2VMJRU=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Trạm trung chuyển",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hSMwx2VjZTI=",
+							"_parent": {
+								"$ref": "AAAAAAF5hQlWs2VMJRU="
+							},
+							"name": "Thông tin trạm tiếp nhận",
+							"source": {
+								"$ref": "AAAAAAF5hQlWs2VMJRU="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hP29rmUhV6c="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5hSPNw2V5HRs=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Đơn hàng - Trạm trung chuyển"
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5hTfAemWbj7M=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Điều phối đơn hàng"
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAF5hTgxW2WrMdQ=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Nhân viên",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hT478mX9V8Y=",
+							"_parent": {
+								"$ref": "AAAAAAF5hTgxW2WrMdQ="
+							},
+							"name": "Thông tin tìm kiếm shipper",
+							"source": {
+								"$ref": "AAAAAAF5hTgxW2WrMdQ="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hTz8KWXqsGo="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hUAASmYRxns=",
+							"_parent": {
+								"$ref": "AAAAAAF5hTgxW2WrMdQ="
+							},
+							"name": "Thông tin Thêm mới shipper",
+							"source": {
+								"$ref": "AAAAAAF5hTgxW2WrMdQ="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hTz8KWXqsGo="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hUfe2WbWv1I=",
+							"_parent": {
+								"$ref": "AAAAAAF5hTgxW2WrMdQ="
+							},
+							"name": "Thông tin đơn hàng cần giao",
+							"source": {
+								"$ref": "AAAAAAF5hTgxW2WrMdQ="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hTfAemWbj7M="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5hTz8KWXqsGo=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Quản lý shipper",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hUE3TWY0Gv4=",
+							"_parent": {
+								"$ref": "AAAAAAF5hTz8KWXqsGo="
+							},
+							"name": "Thông tin Thêm mới shipper",
+							"source": {
+								"$ref": "AAAAAAF5hTz8KWXqsGo="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hUDoS2Yi/eE="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5hUDoS2Yi/eE=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Shipper",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hUHFTGZOzdc=",
+							"_parent": {
+								"$ref": "AAAAAAF5hUDoS2Yi/eE="
+							},
+							"name": "Kết quả tìm kiếm",
+							"source": {
+								"$ref": "AAAAAAF5hUDoS2Yi/eE="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hTz8KWXqsGo="
+							}
+						},
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hUkaSWcC3yg=",
+							"_parent": {
+								"$ref": "AAAAAAF5hUDoS2Yi/eE="
+							},
+							"name": "Thông tin shipper",
+							"source": {
+								"$ref": "AAAAAAF5hUDoS2Yi/eE="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hTfAemWbj7M="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5hUTH0WZm630=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "QL Trạm trung chuyển",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hUYpFmaIj4o=",
+							"_parent": {
+								"$ref": "AAAAAAF5hUTH0WZm630="
+							},
+							"name": "Thông tin trạm tiếp nhận",
+							"source": {
+								"$ref": "AAAAAAF5hUTH0WZm630="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hQlWs2VMJRU="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5hUZhf2aTdng=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "QL Đơn hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5hUbtfWanIXE=",
+							"_parent": {
+								"$ref": "AAAAAAF5hUZhf2aTdng="
+							},
+							"name": "Thông tin đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5hUZhf2aTdng="
+							},
+							"target": {
+								"$ref": "AAAAAAF5hQkURWU+W2c="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAF5haRZOBxGVVg=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Khách hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5h1TQhUtCKms=",
+							"_parent": {
+								"$ref": "AAAAAAF5haRZOBxGVVg="
+							},
+							"name": "Mã đơn hàng tra cứu",
+							"source": {
+								"$ref": "AAAAAAF5haRZOBxGVVg="
+							},
+							"target": {
+								"$ref": "AAAAAAF5h1QUokszfJI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5h1QUokszfJI=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Tra cứu đơn hàng"
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5h1URyUtMkwg=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Đơn hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5h1VEUEtYKhY=",
+							"_parent": {
+								"$ref": "AAAAAAF5h1URyUtMkwg="
+							},
+							"name": "Thông tin đơn hàng tìm kiếm",
+							"source": {
+								"$ref": "AAAAAAF5h1URyUtMkwg="
+							},
+							"target": {
+								"$ref": "AAAAAAF5h1QUokszfJI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5h1w3u0t+bBU=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Trạm trung chuyển",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5h2LR2UvTQ3Y=",
+							"_parent": {
+								"$ref": "AAAAAAF5h1w3u0t+bBU="
+							},
+							"name": "Danh sách trạm đã tiếp nhận đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5h1w3u0t+bBU="
+							},
+							"target": {
+								"$ref": "AAAAAAF5h1QUokszfJI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5h1yRekuP2/Y=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Hàng hoá",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5h2LIfEvKc1M=",
+							"_parent": {
+								"$ref": "AAAAAAF5h1yRekuP2/Y="
+							},
+							"name": "Danh sách hàng hoá của đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5h1yRekuP2/Y="
+							},
+							"target": {
+								"$ref": "AAAAAAF5h1QUokszfJI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5h1zFJUudgxk=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Khách hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5h2K9vkvBpAY=",
+							"_parent": {
+								"$ref": "AAAAAAF5h1zFJUudgxk="
+							},
+							"name": "Thông tin chủ đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5h1zFJUudgxk="
+							},
+							"target": {
+								"$ref": "AAAAAAF5h1QUokszfJI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5sR6DShKtQl0=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Đơn hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sR7DyhK6PHI=",
+							"_parent": {
+								"$ref": "AAAAAAF5sR6DShKtQl0="
+							},
+							"name": "Thông tin shipper nhận đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5hTfAemWbj7M="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sR6DShKtQl0="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAF5sSxzbhL0FwI=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Nhân viên",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sTGqQRNHnkI=",
+							"_parent": {
+								"$ref": "AAAAAAF5sSxzbhL0FwI="
+							},
+							"name": "Thông tin đơn hàng",
+							"source": {
+								"$ref": "AAAAAAF5sSxzbhL0FwI="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sTBUlhM1u+k="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5sTBUlhM1u+k=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Xuất phiếu gửi",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sdlS8ZcYAuM=",
+							"_parent": {
+								"$ref": "AAAAAAF5sTBUlhM1u+k="
+							},
+							"name": "Phiếu gửi hàng",
+							"source": {
+								"$ref": "AAAAAAF5sTBUlhM1u+k="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sSxzbhL0FwI="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5sdnFtJcjYPU=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Đơn hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sdp0J5daekg=",
+							"_parent": {
+								"$ref": "AAAAAAF5sdnFtJcjYPU="
+							},
+							"source": {
+								"$ref": "AAAAAAF5sdnFtJcjYPU="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sTBUlhM1u+k="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5sdnqPZcwgR4=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Hàng hoá",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sdpNVpdP0qo=",
+							"_parent": {
+								"$ref": "AAAAAAF5sdnqPZcwgR4="
+							},
+							"source": {
+								"$ref": "AAAAAAF5sdnqPZcwgR4="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sTBUlhM1u+k="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5sdojmJdB90w=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Khách hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sdp9L5dj52I=",
+							"_parent": {
+								"$ref": "AAAAAAF5sdojmJdB90w="
+							},
+							"source": {
+								"$ref": "AAAAAAF5sdojmJdB90w="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sTBUlhM1u+k="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDExternalEntity",
+					"_id": "AAAAAAF5sd2XU5kZr24=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Quản lý",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sd4AfJk3mwE=",
+							"_parent": {
+								"$ref": "AAAAAAF5sd2XU5kZr24="
+							},
+							"name": "Mốc thời gian thống kê",
+							"source": {
+								"$ref": "AAAAAAF5sd2XU5kZr24="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sd3fHJkpNXc="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5sd3fHJkpNXc=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Thống kê"
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5sd6M55lDc5w=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Đơn hàng",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sd61gplSOFE=",
+							"_parent": {
+								"$ref": "AAAAAAF5sd6M55lDc5w="
+							},
+							"name": "Thống số lượng và doanh số",
+							"source": {
+								"$ref": "AAAAAAF5sd6M55lDc5w="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sd3fHJkpNXc="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDDataStore",
+					"_id": "AAAAAAF5sd9ejplezwY=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Hàng hoá",
+					"ownedElements": [
+						{
+							"_type": "DFDDataFlow",
+							"_id": "AAAAAAF5sd+HyZlrdK0=",
+							"_parent": {
+								"$ref": "AAAAAAF5sd9ejplezwY="
+							},
+							"name": "Tổng doanh số hàng hoá",
+							"source": {
+								"$ref": "AAAAAAF5sd9ejplezwY="
+							},
+							"target": {
+								"$ref": "AAAAAAF5sd3fHJkpNXc="
+							}
+						}
+					]
+				},
+				{
+					"_type": "DFDProcess",
+					"_id": "AAAAAAF5see3OZl2K2I=",
+					"_parent": {
+						"$ref": "AAAAAAF5hNBQYGN7FkY="
+					},
+					"name": "Quản lý đơn hàng"
+				}
+			]
+		}
+	]
+}
